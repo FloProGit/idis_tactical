@@ -1,0 +1,235 @@
+﻿  Animation.c
+  COMBAT.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(34): warning C4020: 'INITCOMBAT' : paramètres réels trop nombreux
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(39): warning C4020: 'UPDATECOMBAT' : paramètres réels trop nombreux
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(47): warning C4047: 'fonction' : les niveaux d'indirection de 'D_HudCombat *' et de 'D_SpellHud (*)[4]' sont différents
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(47): warning C4024: 'initTexte' : types différents pour le paramètre formel et réel 1
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(49): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(59): warning C4047: 'fonction' : les niveaux d'indirection de 'D_SpellHud *' et de 'D_SpellHud (*)[4]' sont différents
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(59): warning C4024: 'InitHud' : types différents pour le paramètre formel et réel 1
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(74): warning C4029: la déclaration de la liste de paramètres formels est différente de la définition
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(276): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(281): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(351): warning C4133: 'fonction' : types incompatibles - de 'M_Enemy *' à 'D_Enemy *'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(477): warning C4047: 'fonction' : les niveaux d'indirection de 'D_SpellHud *' et de 'D_SpellHud (*)[4]' sont différents
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(477): warning C4024: 'DisplayHud' : types différents pour le paramètre formel et réel 1
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(478): warning C4047: 'fonction' : les niveaux d'indirection de 'D_Perso *' et de 'D_Personnage (*)[4]' sont différents
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(478): warning C4024: 'DisplayStatsHud' : types différents pour le paramètre formel et réel 1
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(479): warning C4047: 'fonction' : les niveaux d'indirection de 'D_HudCombat *' et de 'D_SpellHud (*)[4]' sont différents
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\combat.c(479): warning C4024: 'DisplayPassTurn' : types différents pour le paramètre formel et réel 1
+  Display.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(63): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(67): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(72): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(76): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(80): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(86): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(90): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(93): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(97): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(101): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(105): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(109): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(113): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(117): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(121): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(125): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(129): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(133): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(137): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(142): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(148): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(152): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(157): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(162): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(167): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(172): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(177): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(181): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(185): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(708): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(754): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\display.c(753): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  Enemy.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\enemy.c(132): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\enemy.c(137): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\enemy.c(144): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\enemy.c(149): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\enemy.c(156): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\enemy.c(161): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\enemy.c(168): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\enemy.c(173): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\enemy.c(178): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\enemy.c(249): warning C4020: 'INITENEMY' : paramètres réels trop nombreux
+  FightSystem.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\fightsystem.c(96): warning C4133: 'fonction' : types incompatibles - de 'D_Enemy *' à 'M_Enemy *'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\fightsystem.c(193): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\fightsystem.c(194): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\fightsystem.c(223): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\fightsystem.c(224): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\fightsystem.c(358): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\fightsystem.c(314): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'int *'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\fightsystem.c(314): warning C4313: 'printf' : conflit entre '%d' dans la chaîne de format et l'argument 1 de type 'int *'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\fightsystem.c(597): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\fightsystem.c(598): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  fmutils.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\fmutils.c(12): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\fmutils.c(13): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  HUD_Combat.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\hud_combat.c(423): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\hud_combat.c(427): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\hud_combat.c(447): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\hud_combat.c(450): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\hud_combat.c(499): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\hud_combat.c(523): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\hud_combat.c(535): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\hud_combat.c(543): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\hud_combat.c(561): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\hud_combat.c(583): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\hud_combat.c(586): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\hud_combat.c(597): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+  inventory.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(6): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(489): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(572): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(576): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(580): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(584): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(589): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(593): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(597): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(688): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(692): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(696): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(700): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(704): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(717): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(721): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(801): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(815): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(819): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(823): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(827): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(831): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(835): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(839): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(856): warning C4028: paramètre formel 2 différent de la déclaration
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(856): warning C4029: la déclaration de la liste de paramètres formels est différente de la définition
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(863): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(867): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\inventory.c(879): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  I_A.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\i_a.c(33): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\i_a.c(41): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\i_a.c(165): warning C4013: 'GetDistancePF' non défini(e) ; extern retournant int pris par défaut
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\i_a.c(714): warning C4013: 'FillingPath' non défini(e) ; extern retournant int pris par défaut
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\i_a.c(819): warning C4013: 'ComeBackEnemy' non défini(e) ; extern retournant int pris par défaut
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\i_a.c(958): warning C4133: 'fonction' : types incompatibles - de 'D_Perso *' à 'D_Personnage *'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\i_a.c(1008): warning C4133: 'fonction' : types incompatibles - de 'D_Perso *' à 'D_Personnage *'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\i_a.c(1061): warning C4133: 'fonction' : types incompatibles - de 'D_Perso *' à 'D_Personnage *'
+  mapCombat.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\mapcombat.c(96): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\mapcombat.c(137): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'D_MapCombat *'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\mapcombat.c(137): warning C4313: 'printf' : conflit entre '%d' dans la chaîne de format et l'argument 1 de type 'D_MapCombat *'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\mapcombat.c(256): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  MAIN.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\main.c(27): warning C4013: 'menuState' non défini(e) ; extern retournant int pris par défaut
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\main.c(29): warning C4013: 'LAUNCH_D_PROJET' non défini(e) ; extern retournant int pris par défaut
+  map_Explo.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\map_explo.c(20): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\map_explo.c(21): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\map_explo.c(30): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'D_MapExplo *'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\map_explo.c(30): warning C4313: 'printf' : conflit entre '%d' dans la chaîne de format et l'argument 1 de type 'D_MapExplo *'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\map_explo.c(89): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\map_explo.c(90): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\map_explo.c(230): warning C4090: '=' : qualificateurs 'const' différents
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\map_explo.c(271): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+  menuState.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\menustate.c(12): warning C4028: paramètre formel 1 différent de la déclaration
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\menustate.c(13): warning C4028: paramètre formel 1 différent de la déclaration
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\menustate.c(14): warning C4028: paramètre formel 1 différent de la déclaration
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\menustate.c(49): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'sfMusic *'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\menustate.c(49): warning C4313: 'printf' : conflit entre '%d' dans la chaîne de format et l'argument 1 de type 'sfMusic *'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\menustate.c(61): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\menustate.c(106): warning C4133: 'fonction' : types incompatibles - de 'GameData *' à 'COMMON *'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\menustate.c(116): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\menustate.c(125): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\menustate.c(127): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\menustate.c(136): warning C4047: '=' : les niveaux d'indirection de 'StateM *' et de 'int' sont différents
+  particle.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(12): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(13): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(14): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(15): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(24): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(25): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(26): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(27): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(35): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(36): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(37): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(38): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(58): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(74): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(93): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(116): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\particle.c(117): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  Pathfinding.c
+  Perso.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(26): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(31): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(35): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(39): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(43): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(49): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(50): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(63): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(67): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(71): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(75): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(79): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(86): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(87): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(100): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(104): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(108): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(112): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(116): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(123): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(124): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(136): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(140): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(144): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(148): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(152): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(160): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\perso.c(161): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  Sound.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\sound.c(63): warning C4013: 'printf' non défini(e) ; extern retournant int pris par défaut
+  Spell.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\spell.c(27): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+  str.c
+  Utils.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\utils.c(10): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\utils.c(15): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\utils.c(22): warning C4047: 'fonction' : les niveaux d'indirection de 'const sfSprite *' et de 'sfSprite **' sont différents
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\utils.c(22): warning C4024: 'sfSprite_getTexture' : types différents pour le paramètre formel et réel 1
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\utils.c(24): warning C4047: 'fonction' : les niveaux d'indirection de 'sfSprite *' et de 'sfSprite **' sont différents
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\utils.c(24): warning C4024: 'sfSprite_destroy' : types différents pour le paramètre formel et réel 1
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\utils.c(22): warning C4090: 'initialisation' : qualificateurs 'const' différents
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\utils.c(30): warning C4244: 'initialisation' : conversion de 'float' en 'sfUint8', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\utils.c(48): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\utils.c(58): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours...
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\pathfinding.c(135): warning C4716: 'FillingPath' : doit retourner une valeur
+  Compilation en cours...
+  World.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\world.c(104): warning C4013: 'LAUNCHCOMBAT' non défini(e) ; extern retournant int pris par défaut
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\world.c(174): warning C4047: 'fonction' : les niveaux d'indirection de 'sfRenderWindow *' et de 'int' sont différents
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\world.c(174): warning C4024: 'displayButtonInventory' : types différents pour le paramètre formel et réel 2
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\world.c(174): warning C4020: 'displayButtonInventory' : paramètres réels trop nombreux
+  System.c
+  Vector_C.c
+c:\users\etudiant2\desktop\version\v36 dimanche soir avant mills\projetsfml\vector_c.c(33): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+  Génération de code en cours...
+  ProjetSFML.vcxproj -> C:\Users\Etudiant2\Desktop\version\V36 dimanche soir avant mills\x64\Debug\ProjetSFML.exe
